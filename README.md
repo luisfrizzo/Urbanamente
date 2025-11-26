@@ -1,5 +1,11 @@
 
----
+UrbanaMente
+
+Integrantes do Grupo
+João Felipe Soares Silva - 33455660
+Yuri Araújo Nunes Ramos - 45886776
+Luis Fernando Figueiredo Frizzo - 35388471
+
 
 Fases do Projeto
 
@@ -21,7 +27,7 @@ Fase III – Implementação e Resultado
   - Tempo de resposta para veículos de emergência.  
   - Satisfação dos cidadãos.  
 
----
+
 
 Tecnologias Utilizadas
 - **IoT (Internet das Coisas)** – Sensores de tráfego e pedestres.  
@@ -30,7 +36,7 @@ Tecnologias Utilizadas
 - **Digital Twin** – Simulação e monitoramento urbano.  
 - **Atuadores Inteligentes** – Controle adaptativo dos semáforos.  
 
----
+
 
 Referências Bibliográficas
 - BID – *Caminho para as Smart Cities*.  
@@ -40,14 +46,6 @@ Referências Bibliográficas
 - Byun et al. – *Smart City Implementation Models Based on IoT*.  
 - Chourabi et al. – *Understanding Smart Cities*.  
 
----
-
-Integrantes do Grupo
-João Felipe Soares Silva - 33455660
-Yuri Araújo Nunes Ramos - 45886776
-Luis Fernando Figueiredo Frizzo - 35388471
-
----
 
 Vídeo de Apresentação
 O vídeo explicativo encontra-se na pasta `/video/apresentacao.mp4`.  
